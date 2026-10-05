@@ -1,0 +1,7 @@
+SNOW PALS — SIMPLE DEPLOYMENT
+
+This folder is ready for Render.
+No commands need to be changed.
+
+Render settings are defined in render.yaml.
+The app starts with npm start and automatically uses Render's PORT.
